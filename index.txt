@@ -1,2 +1,1 @@
-Hello World
-git help in version control
+wrong line added to index
